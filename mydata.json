@@ -1,0 +1,30 @@
+[{
+    "name":"Sebastian",
+    "dob" :"19/12/1994",
+    "college":"KMEA",
+    "mob":"8547751236"
+},
+{
+    "name":"Balu",
+    "dob" :"19/2/1994",
+    "college":"KMEA",
+    "mob":"8456696325"
+},
+{
+    "name":"Manu",
+    "dob" :"8/12/1994",
+    "college":"KMEA",
+    "mob":"2656365241"
+},
+{
+    "name":"Kelvin",
+    "dob" :"19/12/1995",
+    "college":"KMEA",
+    "mob":"3658454665"
+},
+{
+    "name":"Rapheal",
+    "dob" :"19/11/2000",
+    "college":"KMEA",
+    "mob":"5366254178"
+}]
