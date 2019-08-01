@@ -4,7 +4,9 @@ $(document).ready(function()
     {
         $.ajax({
             type:"GET",
-            url:"https://jsonplaceholder.typicode.com/users",
+            $.getJSON("test.json", function(json) {
+                console.log(json); // this will show the info it in firebug console
+            });,
             success:function(data)
             {
                 //console.log(data);
